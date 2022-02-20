@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @iwingz
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning java
+- 📫 How to reach me instagram : iwingzi
