@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iwingz
+- 👋 Hi, I’m amir
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning Python
 - 📫 How to reach me instagram : iwingzi
